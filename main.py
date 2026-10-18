@@ -10,10 +10,11 @@ def scrape_listings(max_pages):
         url = PAGE_URL.format(n)
         html = fetch_url(url)
         book = parse_listing(html, url)
-        all_books.append(book)
+        all_books.extend(book)
 
-        if not has_next_page():
+        if not has_next_page(html):
             break
 
         n = n + 1
     return all_books
+
