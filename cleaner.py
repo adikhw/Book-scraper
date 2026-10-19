@@ -18,3 +18,13 @@ def clean_stock(text):
         return int(number.group())
     return 0
 
+def clean_book(book):
+    return {
+        "title": book["title"],
+        "price": clean_price(book["price_raw"]),
+        "rating": clean_rating(book["rating_raw"]),
+        "category": book["category"],
+        "in_stock":"In stock" in book["stock_text"],
+        "stock_count": clean_stock(book["stock_text"]),
+        "url": book["url"]
+    }
