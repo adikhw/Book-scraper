@@ -1,6 +1,6 @@
 import logging
 from config import PAGE_URL
-from fetcher import fetch_url
+from fetcher import fetch_url, fetch_with_cache
 from parser import parse_listing, has_next_page, parse_detail
 
 logger = logging.getLogger(__name__)
@@ -11,9 +11,14 @@ def scrape_listings(max_pages):
 
     while n <= max_pages:
         url = PAGE_URL.format(n)
-        html = fetch_url(url)
-        book = parse_listing(html, url)
-        all_books.extend(book)
+        try:
+            html = fetch_with_cache(url)
+            book = parse_listing(html, url)
+            all_books.extend(book)
+        except Exception as e:
+            logger.warning("Failed to scrape listing page %s: %s", url, e)
+            n = n + 1
+            continue
 
         if not has_next_page(html):
             break
