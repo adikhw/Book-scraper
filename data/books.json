@@ -1,0 +1,362 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": 51.77,
+    "rating": 3,
+    "category": "Poetry",
+    "in_stock": true,
+    "stock_count": 22,
+    "url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": 53.74,
+    "rating": 1,
+    "category": "Historical Fiction",
+    "in_stock": true,
+    "stock_count": 20,
+    "url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "title": "Soumission",
+    "price": 50.1,
+    "rating": 1,
+    "category": "Fiction",
+    "in_stock": true,
+    "stock_count": 20,
+    "url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+  },
+  {
+    "title": "Sharp Objects",
+    "price": 47.82,
+    "rating": 4,
+    "category": "Mystery",
+    "in_stock": true,
+    "stock_count": 20,
+    "url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": 54.23,
+    "rating": 5,
+    "category": "History",
+    "in_stock": true,
+    "stock_count": 20,
+    "url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+  },
+  {
+    "title": "The Requiem Red",
+    "price": 22.65,
+    "rating": 1,
+    "category": "Young Adult",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+  },
+  {
+    "title": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": 33.34,
+    "rating": 4,
+    "category": "Business",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+  },
+  {
+    "title": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+    "price": 17.93,
+    "rating": 3,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html"
+  },
+  {
+    "title": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+    "price": 22.6,
+    "rating": 4,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html"
+  },
+  {
+    "title": "The Black Maria",
+    "price": 52.15,
+    "rating": 1,
+    "category": "Poetry",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html"
+  },
+  {
+    "title": "Starving Hearts (Triangular Trade Trilogy, #1)",
+    "price": 13.99,
+    "rating": 2,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html"
+  },
+  {
+    "title": "Shakespeare's Sonnets",
+    "price": 20.66,
+    "rating": 4,
+    "category": "Poetry",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html"
+  },
+  {
+    "title": "Set Me Free",
+    "price": 17.46,
+    "rating": 5,
+    "category": "Young Adult",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/set-me-free_988/index.html"
+  },
+  {
+    "title": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+    "price": 52.29,
+    "rating": 5,
+    "category": "Sequential Art",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html"
+  },
+  {
+    "title": "Rip it Up and Start Again",
+    "price": 35.02,
+    "rating": 5,
+    "category": "Music",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html"
+  },
+  {
+    "title": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+    "price": 57.25,
+    "rating": 3,
+    "category": "Music",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html"
+  },
+  {
+    "title": "Olio",
+    "price": 23.88,
+    "rating": 1,
+    "category": "Poetry",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/olio_984/index.html"
+  },
+  {
+    "title": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "price": 37.59,
+    "rating": 1,
+    "category": "Science Fiction",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+  },
+  {
+    "title": "Libertarianism for Beginners",
+    "price": 51.33,
+    "rating": 2,
+    "category": "Politics",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html"
+  },
+  {
+    "title": "It's Only the Himalayas",
+    "price": 45.17,
+    "rating": 2,
+    "category": "Travel",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html"
+  },
+  {
+    "title": "In Her Wake",
+    "price": 12.84,
+    "rating": 1,
+    "category": "Thriller",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+  },
+  {
+    "title": "How Music Works",
+    "price": 37.32,
+    "rating": 2,
+    "category": "Music",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/how-music-works_979/index.html"
+  },
+  {
+    "title": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+    "price": 30.52,
+    "rating": 3,
+    "category": "Food and Drink",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html"
+  },
+  {
+    "title": "Chase Me (Paris Nights #2)",
+    "price": 25.27,
+    "rating": 5,
+    "category": "Romance",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/chase-me-paris-nights-2_977/index.html"
+  },
+  {
+    "title": "Black Dust",
+    "price": 34.53,
+    "rating": 5,
+    "category": "Romance",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/black-dust_976/index.html"
+  },
+  {
+    "title": "Birdsong: A Story in Pictures",
+    "price": 54.64,
+    "rating": 3,
+    "category": "Childrens",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/birdsong-a-story-in-pictures_975/index.html"
+  },
+  {
+    "title": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+    "price": 22.5,
+    "rating": 3,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/americas-cradle-of-quarterbacks-western-pennsylvanias-football-factory-from-johnny-unitas-to-joe-montana_974/index.html"
+  },
+  {
+    "title": "Aladdin and His Wonderful Lamp",
+    "price": 53.13,
+    "rating": 3,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 19,
+    "url": "https://books.toscrape.com/catalogue/aladdin-and-his-wonderful-lamp_973/index.html"
+  },
+  {
+    "title": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+    "price": 40.3,
+    "rating": 5,
+    "category": "Nonfiction",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html"
+  },
+  {
+    "title": "Wall and Piece",
+    "price": 44.18,
+    "rating": 4,
+    "category": "Art",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/wall-and-piece_971/index.html"
+  },
+  {
+    "title": "The Four Agreements: A Practical Guide to Personal Freedom",
+    "price": 17.66,
+    "rating": 5,
+    "category": "Spirituality",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html"
+  },
+  {
+    "title": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+    "price": 31.05,
+    "rating": 3,
+    "category": "Nonfiction",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/the-five-love-languages-how-to-express-heartfelt-commitment-to-your-mate_969/index.html"
+  },
+  {
+    "title": "The Elephant Tree",
+    "price": 23.82,
+    "rating": 5,
+    "category": "Thriller",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html"
+  },
+  {
+    "title": "The Bear and the Piano",
+    "price": 36.89,
+    "rating": 1,
+    "category": "Childrens",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/the-bear-and-the-piano_967/index.html"
+  },
+  {
+    "title": "Sophie's World",
+    "price": 15.94,
+    "rating": 5,
+    "category": "Philosophy",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/sophies-world_966/index.html"
+  },
+  {
+    "title": "Penny Maybe",
+    "price": 33.29,
+    "rating": 3,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/penny-maybe_965/index.html"
+  },
+  {
+    "title": "Maude (1883-1993):She Grew Up with the country",
+    "price": 18.02,
+    "rating": 2,
+    "category": "Default",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/maude-1883-1993she-grew-up-with-the-country_964/index.html"
+  },
+  {
+    "title": "In a Dark, Dark Wood",
+    "price": 19.63,
+    "rating": 1,
+    "category": "Mystery",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html"
+  },
+  {
+    "title": "Behind Closed Doors",
+    "price": 52.22,
+    "rating": 4,
+    "category": "Thriller",
+    "in_stock": true,
+    "stock_count": 18,
+    "url": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html"
+  },
+  {
+    "title": "You can't bury them all: Poems",
+    "price": 33.63,
+    "rating": 2,
+    "category": "Poetry",
+    "in_stock": true,
+    "stock_count": 17,
+    "url": "https://books.toscrape.com/catalogue/you-cant-bury-them-all-poems_961/index.html"
+  }
+]
