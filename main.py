@@ -50,7 +50,7 @@ def enrich(books):
 def main():
     arg_parser = argparse.ArgumentParser(description="Book scraper")
     arg_parser.add_argument("--pages", type=int, default=3)
-    arg_parser.add_argument("--delay", type=float, default=config.DELAY)
+    arg_parser.add_argument("--delay", type=float, default=config.DELAY_SECONDS)
     arg_parser.add_argument("--out", default=config.OUT_DIR)
     args = arg_parser.parse_args()
 
@@ -59,7 +59,7 @@ def main():
         format="%(asctime)s [%(levelname)s] %(message)s",
     )
 
-    config.DELAY = args.delay
+    config.DELAY_SECONDS = args.delay
 
     logging.info("Start scraping %d pages", args.pages)
     raw = scrape_listings(args.pages)
